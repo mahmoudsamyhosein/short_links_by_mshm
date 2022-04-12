@@ -2,4 +2,3 @@
 
 لمعاينة الأسكربت : https://short-links-by-mshm.herokuapp.com/
 
-لتحميل الأسكربت : https://short-links-by-mshm.herokuapp.com/xkWLMe	
