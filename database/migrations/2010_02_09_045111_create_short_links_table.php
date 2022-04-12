@@ -15,7 +15,7 @@ class CreateShortLinksTable extends Migration
     {
         Schema::create('short_links', function (Blueprint $table) {
             $table->id();
-            $table->string('link');
+            $table->string('link',500);
             $table->string('code');
             $table->integer('visits_count')->default(0);
             $table->timestamps();
